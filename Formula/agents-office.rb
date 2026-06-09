@@ -1,8 +1,8 @@
 class AgentsOffice < Formula
   desc "Real-time office dashboard for AI coding agents"
   homepage "https://agents-office.lessch4os.com"
-  url "https://github.com/lessch4os/agents-office/archive/refs/tags/v0.36.0.tar.gz"
-  sha256 "262a65f4055d243dcdcf49326eb5dcdeb579dbc15619ac81e9d182abb4f17616"
+  url "https://github.com/lessch4os/agents-office/archive/refs/tags/v0.37.1.tar.gz"
+  sha256 "6bf2ff32d0879821144e1ac4fd0aca2e3c97155bb2ff99c90b52d69b198ec87b"
   license "MIT"
 
   depends_on "bun" => :build
